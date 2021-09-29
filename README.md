@@ -30,16 +30,16 @@ EXERCISE 02/EXERCICIO 02
 
 Category            DISCOUNT
 
-Economy             2 travelers -> 3%
-                    3 travelers -> 4%
+Economy             2 travelers -> 3%; 
+                    3 travelers -> 4%; 
                     4 travelers or more -> 5%
                     
-Executive           2 travelers -> 5%
-                    3 travelers -> 7%
+Executive           2 travelers -> 5%; 
+                    3 travelers -> 7%; 
                     4 travelers or more -> 8%
                     
-First class         2 travelers -> 10
-                    3 travelers -> 15%                   
+First class         2 travelers -> 10; 
+                    3 travelers -> 15%;                    
                     4 travelers or more -> 20%
 
 •	Português -> Uma agência de viagens está propondo uma estratégia para alavancar as vendas após os impactos da pandemia do coronavírus.
@@ -48,16 +48,16 @@ residência. Desenvolva um algoritmo que receba o VALOR BRUTO do pacote, a CATEG
 
 Categoria           DESCONTOS
 
-Econômica           2 viajantes -> 3%
-                    3 viajantes -> 4%
+Econômica           2 viajantes -> 3%; 
+                    3 viajantes -> 4%; 
                     4 viajantes ou mais -> 5%
                     
-Executiva           2 viajantes -> 5%
-                    3 viajantes -> 7%
+Executiva           2 viajantes -> 5%; 
+                    3 viajantes -> 7%; 
                     4 viajantes ou mais -> 8%
                     
-Primeira classe     2 viajantes -> 10%
-                    3 viajantes -> 15%
+Primeira classe     2 viajantes -> 10%; 
+                    3 viajantes -> 15%; 
                     4 viajantes ou mais -> 20%
                     
                     
