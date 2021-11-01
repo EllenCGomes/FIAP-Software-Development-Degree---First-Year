@@ -1,5 +1,5 @@
 # FIAP-Software-Development-Degree---First-Year
-Exercises Fase 2
+Exercises Phase 2
 
 EXERCISE 01/EXERCICIO 01
 
